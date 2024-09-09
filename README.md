@@ -12,7 +12,7 @@ Welcome to my GitHub corner! I'm on an exciting journey of transforming ideas in
 ### 🌱 My Learning Path:
 I'm diving deep into:
 - AI and Machine Learning 🤖
-- Web Development (HTML, CSS, JavaScript, and beyond!) 🌐
+- Web Development (Golang, HTML, CSS, JavaScript, and beyond!) 🌐
 - Exploring the intersection of finance and technology 💼
 
 ### 💻 How I Code:
