@@ -6,6 +6,7 @@ Welcome to my GitHub corner! I'm on an exciting journey of transforming ideas in
 
 ### 💡 What I’m Working On:
 - **SwitchSavvy**: A website to help users discover the best UK bank offers and cash bonuses for switching accounts.
+- **SmartSaver**: A tool to find the best UK saving rates tailored to the user.
 - **AI-Powered Projects**: Experimenting with AI to automate, optimize, and create innovative web solutions.
 - **Learning and Growing**: Constantly picking up new skills and technologies to push the boundaries of what I can create.
 - **Go Clients for Open Source APIs**: Contributing to the Go ecosystem and improving my Go skills.
